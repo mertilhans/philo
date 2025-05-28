@@ -1,4 +1,4 @@
-#Philoshoper Probleminin Özü : Eşzamanlılık ve Senkronizasyon
+# Philoshoper Probleminin Özü : Eşzamanlılık ve Senkronizasyon
 - Philosopher problemi, eşzamanlı programlama dünyasındaki en temel zorluklardan birini somutlaştırır:birden fazla bağımsız işlemin veya thread'in paylaşılan kaynaklara(bu durumda çubuklar) aynı anda erişmeye çalışırken nasıl bir uyum içinde çalışması gerektiğini.Bu basitçe bir race condition'dan çok daha fazlası deadlock ve starvation gibi karmaşık sorunları ortaya çıkarır.
 - Thread (İş parçacığı) Kavramı ve süreçlerden farkı
 - -SÜreç (Process) işletim sistemi tarafından yönetilen bağımsız  bir program yürütme birimidir.Kendi bellek alanına, dosya tanımlayıcılarına ve kaynaklarına sahiptir.Süreçler arası iletişim IPC karmaşıktır
